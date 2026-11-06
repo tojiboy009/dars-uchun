@@ -1,1 +1,2 @@
 # dars-uchun
+ustoz yaratdim
